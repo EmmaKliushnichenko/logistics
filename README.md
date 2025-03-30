@@ -31,7 +31,7 @@ The goal of the project was to create a Python package that performs a series of
 To install the package locally:
 
 ```bash
-git clone https://github.com/yourusername/supply-chain-tool.git
+git clone https://github.com/EmmaKliushnichenko/supply-chain-tool.git
 cd supply-chain-tool
 pip install -e .
 ```
