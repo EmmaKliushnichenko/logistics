@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "supply_chain_tool"
+version = "0.1.0"
+description = "A Python package for analyzing and optimizing supply chain data."
+authors = [
+  { name="Emma Kliushnichenko", email="emma.kliushnichenko@tu-dortmund.de" }
+]
+dependencies = [
+  "pandas",
+  "matplotlib"
+]
